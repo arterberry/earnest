@@ -15,7 +15,7 @@ JungleSockTest
 * verifyZeroCheckout - adding zero items to checkout and confirming usability.
 
 ### Page Object Model (Page package)
-JungleSockCheckout
+JungleSockCheckout<br>
 JungleSockPage
 
 ### Test Results
